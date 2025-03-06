@@ -1,1 +1,1 @@
-# Assign-01-Swift-Lineequation
+# Assign-01-Swift-LineEquation
